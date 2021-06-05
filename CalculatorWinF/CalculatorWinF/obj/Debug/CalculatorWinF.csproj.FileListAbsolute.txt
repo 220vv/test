@@ -1,0 +1,10 @@
+G:\Практика С#\CalculatorWinF\CalculatorWinF\bin\Debug\CalculatorWinF.exe.config
+G:\Практика С#\CalculatorWinF\CalculatorWinF\bin\Debug\CalculatorWinF.exe
+G:\Практика С#\CalculatorWinF\CalculatorWinF\bin\Debug\CalculatorWinF.pdb
+G:\Практика С#\CalculatorWinF\CalculatorWinF\obj\Debug\CalculatorWinF.csprojAssemblyReference.cache
+G:\Практика С#\CalculatorWinF\CalculatorWinF\obj\Debug\CalculatorWinF.Form1.resources
+G:\Практика С#\CalculatorWinF\CalculatorWinF\obj\Debug\CalculatorWinF.Properties.Resources.resources
+G:\Практика С#\CalculatorWinF\CalculatorWinF\obj\Debug\CalculatorWinF.csproj.GenerateResource.cache
+G:\Практика С#\CalculatorWinF\CalculatorWinF\obj\Debug\CalculatorWinF.csproj.CoreCompileInputs.cache
+G:\Практика С#\CalculatorWinF\CalculatorWinF\obj\Debug\CalculatorWinF.exe
+G:\Практика С#\CalculatorWinF\CalculatorWinF\obj\Debug\CalculatorWinF.pdb
