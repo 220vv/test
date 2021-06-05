@@ -1,0 +1,19 @@
+G:\Практика С#\Calculator WPF\bin\Debug\netcoreapp3.0\Calculator WPF.exe
+G:\Практика С#\Calculator WPF\bin\Debug\netcoreapp3.0\Calculator WPF.deps.json
+G:\Практика С#\Calculator WPF\bin\Debug\netcoreapp3.0\Calculator WPF.runtimeconfig.json
+G:\Практика С#\Calculator WPF\bin\Debug\netcoreapp3.0\Calculator WPF.runtimeconfig.dev.json
+G:\Практика С#\Calculator WPF\bin\Debug\netcoreapp3.0\Calculator WPF.dll
+G:\Практика С#\Calculator WPF\bin\Debug\netcoreapp3.0\Calculator WPF.pdb
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.csprojAssemblyReference.cache
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\App.g.cs
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF_MarkupCompile.cache
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF_MarkupCompile.lref
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\MainWindow.baml
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.g.resources
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.AssemblyInfoInputs.cache
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.AssemblyInfo.cs
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.csproj.CoreCompileInputs.cache
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.dll
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.pdb
+G:\Практика С#\Calculator WPF\obj\Debug\netcoreapp3.0\Calculator WPF.genruntimeconfig.cache
